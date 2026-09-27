@@ -4,3 +4,5 @@ torch
 openpyxl
 pandas
 pydub
+audioop-lts
+pyaudioop
