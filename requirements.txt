@@ -4,5 +4,4 @@ torch
 openpyxl
 pandas
 pydub
-audioop-lts
 thefuzz
